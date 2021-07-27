@@ -7,7 +7,7 @@ Give a ⭐ if you like this website!
 <a href="https://www.buymeacoffee.com/junds" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 
 
-*500 AI Machine learning Deep learning Computer vision NLP Projects with code*
+*AI Machine learning Deep learning Computer vision NLP Projects with code*
 
 
 
